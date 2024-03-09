@@ -1,0 +1,7 @@
+echo "# -j" >> README.md 
+git init 
+git add README.md 
+git commit -m “第一次提交” 
+git 分支 -M main 
+git 远程添加 origin https://github.com/niumagg/-j.git
+ git Push -u 原点主要
